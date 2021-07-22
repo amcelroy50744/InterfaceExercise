@@ -1,0 +1,13 @@
+C:\Users\amcel\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.csproj.AssemblyReference.cache
+C:\Users\amcel\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.AssemblyInfoInputs.cache
+C:\Users\amcel\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.AssemblyInfo.cs
+C:\Users\amcel\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.csproj.CoreCompileInputs.cache
+C:\Users\amcel\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.exe
+C:\Users\amcel\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.deps.json
+C:\Users\amcel\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.runtimeconfig.json
+C:\Users\amcel\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.runtimeconfig.dev.json
+C:\Users\amcel\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.dll
+C:\Users\amcel\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.pdb
+C:\Users\amcel\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.dll
+C:\Users\amcel\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.pdb
+C:\Users\amcel\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.genruntimeconfig.cache

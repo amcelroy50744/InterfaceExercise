@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4RqsktgIe0rV31TjA6VDbpoAKuiUl9RoxJ6CRoPTWVNnCoUuE5cl4VarrVrc/bcfyCMbjy2JS9D32NTL2w8WYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amcel\\repos\\InterfaceExercise\\InterfaceExercise\\InterfaceExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amcel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\amcel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\amcel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\amcel\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
